@@ -1,2 +1,2 @@
 # React-training
-Sample React project
+React theory
